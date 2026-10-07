@@ -1,0 +1,8 @@
+# 游戏原始文件与导出中间产物不入库
+*.assets
+*.resS
+*.resource
+*.dll
+*.dat
+work/
+__pycache__/
